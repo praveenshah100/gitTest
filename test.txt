@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Git Initial Test
-=======
-test data
->>>>>>> 75d168dd9e72f215866ac02265e1f40132f4de94
