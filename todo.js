@@ -1,10 +1,10 @@
-switch(expression) {
+ switch(expression) {
+     case n:
+         code block
+         break;
     case n:
-        code block
-        break;
-    case n:
-        code block
-        break;
+         code block
+         break;
     default:
-        code block
-}var d;
+         code block
+}var  d;
